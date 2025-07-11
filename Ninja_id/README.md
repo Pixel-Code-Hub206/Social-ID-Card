@@ -1,6 +1,6 @@
 # ninja_id
 
-First tutorial Flutter project.
+First Flutter project.
 
 ## Getting Started
 
